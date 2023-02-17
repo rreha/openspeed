@@ -5,7 +5,9 @@ OpenSpeed aims to recreate an open-source clone of a closed-source project named
 This project is still in progress! <br />
 
 Installation: <br />
-Put the "openspeedv10a" folder to your /PSP/GAME/ folder. <br />
+Download the latest release from this page. <br />
+Extract the files. <br />
+Put the "openspeedv10a" folder to your PSP's /PSP/GAME/ folder. <br />
 
 Credits to: <br />
 The Z for creating DarkSpeed & Lightspeed <br />
