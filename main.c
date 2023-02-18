@@ -5,7 +5,7 @@
 #include <pspctrl.h>
 #include <pspsdk.h>
 #include <pspiofilemgr.h>
-#include <kubridge.h>
+#include "lib/kubridge.h"
 //#include "lib/callback.h" no need to include this since its already included inside of the "file_io1.h"
 #include "lib/file_io1.h"
 
